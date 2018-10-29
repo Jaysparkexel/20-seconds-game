@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="object_top">20dp</dimen>
+    <dimen name="logo_top">40dp</dimen>
+    <dimen name="scoreboard_top">50dp</dimen>
+    <dimen name="retry_top">50dp</dimen>
+    <dimen name="home_top">20dp</dimen>
+
+</resources>
